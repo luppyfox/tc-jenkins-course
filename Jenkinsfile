@@ -1,4 +1,4 @@
-peline {
+pipeline {
       agent any 
       stages {
           stage('Print + list current directory') {
